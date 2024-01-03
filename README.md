@@ -51,10 +51,41 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 ### PROGRAM 
+
+
+
+
+UP COUNTER :
+
+
+
+![UPCOUNTER CODE](https://github.com/23004345/Exp-7-Synchornous-counters-/assets/138849203/3aeafa28-cccb-4d56-bbe3-423cb424cb51)
+
+
+
+
+
+DOWN COUNTER : 
+
+
+
+
+
+![DOWNCOUNTER CODE](https://github.com/23004345/Exp-7-Synchornous-counters-/assets/138849203/90bb0bc1-7669-434c-a650-626cb40a8d66)
+
+
+
+
+OUTPUT:
+
+
+
+
+
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: DEVESH.S
+RegisterNumber:  23004345
 */
 
 
@@ -62,7 +93,60 @@ RegisterNumber:
 
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+### RTL 
+
+
+
+
+UP COUNTER :
+
+
+
+
+![UPCOUNTER RTL](https://github.com/23004345/Exp-7-Synchornous-counters-/assets/138849203/7f1436e6-468b-4722-a6b6-6f6abec2915e)
+
+
+
+
+
+
+
+DOWN COUNTER : 
+
+
+
+
+![DOWNCOUNTER RTL](https://github.com/23004345/Exp-7-Synchornous-counters-/assets/138849203/1ffa9d66-aeae-4b3b-b450-a77f1001fe91)
+
+
+
+
+
+
+
+
+### TIMING DIGRAMS FOR COUNTER  :
+
+
+
+
+
+
+UP COUNTER :
+
+
+
+
+
+
+
+
+![UP TIME](https://github.com/23004345/Exp-7-Synchornous-counters-/assets/138849203/fccd2ac6-0a24-476c-8088-114601f5c884)
+
+
+
+
+DOWN COUNTER : 
 
 
 
@@ -72,13 +156,35 @@ RegisterNumber:
 
 
 
-### TIMING DIGRAMS FOR COUNTER  
-
-
+![THE REAL DOWN TIME](https://github.com/23004345/Exp-7-Synchornous-counters-/assets/138849203/0cb80600-eba8-473b-865f-a09ab022c6e7)
 
 
 
 ### TRUTH TABLE 
+
+UP COUNTER :
+
+
+
+
+
+
+
+![UP TT TABLE](https://github.com/23004345/Exp-7-Synchornous-counters-/assets/138849203/a70c3cc5-35ff-4b1c-8249-97e8c75a15f7)
+
+
+
+
+
+
+DOWN COUNTER : 
+
+
+
+
+
+
+![DOWN TT](https://github.com/23004345/Exp-7-Synchornous-counters-/assets/138849203/9e0369bc-5cc1-4e5b-8bd8-6e5112bf517f)
 
 
 
@@ -86,3 +192,10 @@ RegisterNumber:
 
 
 ### RESULTS 
+
+
+
+
+
+Thus Synchornous counters up counter and down counter circuit are studied and the truth table for
+different logic gates are verified.
